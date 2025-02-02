@@ -1,0 +1,19 @@
+h1{
+    color:blueviolet
+}
+p{
+    color:orangered
+}
+#para{
+    color:greenyellow
+}
+.demo{
+    color:rgb(45, 16, 73)
+}
+p{
+    font-size: 40px;
+    background-color: black;
+}
+h2,h5{
+    background-color: pink;
+}
